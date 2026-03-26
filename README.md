@@ -50,7 +50,6 @@ LangChain & LangChain OpenAI
 
 OpenAI
 
-FAISS for vector storage
 
 NLTK for text processing
 
